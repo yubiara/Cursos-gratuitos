@@ -9,7 +9,7 @@ Também irei disponibilizar sites para certificações gratuitas 📝
 
 
 ## CyberSegurança 🖧
-1. **Cybersecurity Certification** - Fortinet NSE 1, NSE 2 e NSE 3[Cybersecurity]([https://youtu.be/TSLoQzJ-6mw](https://www.fortinet.com/training-certification))
+1. **Cybersecurity Certification** - Fortinet NSE 1, NSE 2 e NSE 3[Cybersecurity](https://youtu.be/TSLoQzJ-6mw](https://www.fortinet.com/training-certification))
 
 
 
