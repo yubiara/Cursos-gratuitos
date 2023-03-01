@@ -1,5 +1,5 @@
 
-# Cursos-gratuitos
+# 📚 Cursos gratuitos de TI 📚
 Nesse repositório você encontrará a indicação de sites que oferecem cursos de TI online gratuitos com certificado para dá aquele UP no currículo🎓
 Também irei disponibilizar sites para certificações gratuitas 📝
 
@@ -62,6 +62,5 @@ Também irei disponibilizar sites para certificações gratuitas 📝
 
 ---------------------------------------------
 
- 
-
-> `Plus`
+> `Plus` 
+Como falou o Et Bilu: **busquem conhecimento** 
