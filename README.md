@@ -3,17 +3,16 @@
 Nesse repositório você encontrará a indicação de sites que oferecem cursos de TI online gratuitos com certificado para dá aquele UP no currículo🎓
 Também irei disponibilizar sites para certificações gratuitas 📝
 
-## QA  🖧
+## QA 🐛
 
 1. **Introdução ao Teste de Software** - Introdução ao Teste [API com Postman](https://pt.coursera.org/learn/intro-teste-de-software)
 2. **Testando APIs do zero com Postman** - Pessonizando [API com Postman](https://youtu.be/TSLoQzJ-6mw)
 
 
-## CyberSegurança 🖧
+## CyberSegurança 🔏
 1. **Cybersecurity Certification** - Fortinet NSE 1, NSE 2 e NSE 3 [Cybersecurity](https://youtu.be/TSLoQzJ-6mw](https://www.fortinet.com/training-certification))
 
 2. **Certified in Cybersecurity℠** - (ISC)² [(ISC)² Certified in Cybersecurity](https://www.isc2.org/landing/1MCC)
-
 3. **CISCO**  
  3.1. CISCO [Introduction to Cybersecurity](https://lnkd.in/dtSj_RgT)  
  3.2. CISCO [Cybersecurity Essentials](https://lnkd.in/dP-ZcNnG)  
@@ -30,7 +29,7 @@ Também irei disponibilizar sites para certificações gratuitas 📝
  5.3. [Digital forensics](https://lnkd.in/dPQeWiYB)
 
 
-## Banco de Dados 🖧
+## Dados 📂
 1. **DSA**  
  1.1. **Fundamentos de Engenharia de Dados** - DSA [Engenharia de Dado](https://www.datascienceacademy.com.br/cursosgratuitos)  
  1.2. **Fundamentos de Inteligência Artificial** - DSA [Inteligência Artificial](https://www.datascienceacademy.com.br/cursosgratuitos)  
@@ -40,22 +39,37 @@ Também irei disponibilizar sites para certificações gratuitas 📝
 
 
 ## Desenvolvimento 👨🏻‍💻
-### JAVA
-1. **DevDojo** *(Simplesmente o melhor curso de Java do BR)*  
+### JAVA ☕
+1. **DevDojo** *(Simplesmente o melhor curso de Java do BR)* 💙  
  1.1. **Lógica de Programação** - DevDojo [Lógica de Programação](https://devdojo.academy/#Cursos)  
  1.2. **Maratona Java** - DevDojo [Maratona Java](https://devdojo.academy/#Cursos)  
  1.3. **Maratona JSF** - DevDojo [JSF](https://devdojo.academy/#Cursos)
+ 
+### Mobile 📳
 
 
-## Cloud 🖧
+
+### PHP 🔮
 
 
-## Linux 🖧
+
+## Cloud Computing ☁️
+### AWS 📒
+
+### Azure 📘
+
+### Google 📕  
+  
+    
+    
 
 
-## Microsoft 🖧
+## Linux 💻
+
+
+## Microsoft ☑️
 
 ---------------------------------------------
 
-🎁> `Plus`  
+🎁> `Plus`  💙
 Como falou o Et Bilu: **busquem conhecimento** 
