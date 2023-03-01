@@ -1,11 +1,12 @@
 
-# 📚 Cursos gratuitos de TI 📚
+# 🚀 Cursos gratuitos de TI 🚀
 Nesse repositório você encontrará a indicação de sites que oferecem cursos de TI online gratuitos com certificado para dá aquele UP no currículo🎓
 Também irei disponibilizar sites para certificações gratuitas 📝
 
 ## QA  🖧
 
-1. **testando APIs do zero com Postman** - Pessonizando [API com Postman](https://youtu.be/TSLoQzJ-6mw)
+1. **Introdução ao Teste de Software** - Introdução ao Teste [API com Postman](https://pt.coursera.org/learn/intro-teste-de-software)
+2. **Testando APIs do zero com Postman** - Pessonizando [API com Postman](https://youtu.be/TSLoQzJ-6mw)
 
 
 ## CyberSegurança 🖧
@@ -29,27 +30,21 @@ Também irei disponibilizar sites para certificações gratuitas 📝
  5.3. [Digital forensics](https://lnkd.in/dPQeWiYB)
 
 
-
-
-
 ## Banco de Dados 🖧
-1. **Fundamentos de Engenharia de Dados** - DSA [Engenharia de Dado](https://www.datascienceacademy.com.br/cursosgratuitos)
+1. **DSA**  
+ 1.1. **Fundamentos de Engenharia de Dados** - DSA [Engenharia de Dado](https://www.datascienceacademy.com.br/cursosgratuitos)  
+ 1.2. **Fundamentos de Inteligência Artificial** - DSA [Inteligência Artificial](https://www.datascienceacademy.com.br/cursosgratuitos)  
+ 1.3. **Fundamentos de Linguagem Python Para Análise de Dados e Data Science** - DSA [Linguagem Python](https://www.datascienceacademy.com.br/cursosgratuitos)  
+ 1.4. **Big Data Fundamentos 3.0** - DSA [Big Data](https://www.datascienceacademy.com.br/cursosgratuitos)  
+ 1.5. **Microsoft Power BI Para Business** - DSA [Power BI](https://www.datascienceacademy.com.br/cursosgratuitos)
 
-2. **Fundamentos de Inteligência Artificial** - DSA [Inteligência Artificial](https://www.datascienceacademy.com.br/cursosgratuitos)
 
-3. **Fundamentos de Linguagem Python Para Análise de Dados e Data Science** - DSA [Linguagem Python](https://www.datascienceacademy.com.br/cursosgratuitos)
-
-4. **Big Data Fundamentos 3.0** - DSA [Big Data](https://www.datascienceacademy.com.br/cursosgratuitos)
-
-5. **Microsoft Power BI Para Business** - DSA [Power BI](https://www.datascienceacademy.com.br/cursosgratuitos)
-
-## Desenvolvimento 🖧
+## Desenvolvimento 👨🏻‍💻
 ### JAVA
-1. **Lógica de Programação** - DevDojo [Lógica de Programação](https://devdojo.academy/#Cursos)
-
-2. **Maratona Java** - DevDojo [Maratona Java](https://devdojo.academy/#Cursos)
-
-3. **Maratona JSF** - DevDojo [JSF](https://devdojo.academy/#Cursos)
+1. **DevDojo** *(Simplesmente o melhor curso de Java do BR)*  
+ 1.1. **Lógica de Programação** - DevDojo [Lógica de Programação](https://devdojo.academy/#Cursos)  
+ 1.2. **Maratona Java** - DevDojo [Maratona Java](https://devdojo.academy/#Cursos)  
+ 1.3. **Maratona JSF** - DevDojo [JSF](https://devdojo.academy/#Cursos)
 
 
 ## Cloud 🖧
@@ -62,5 +57,5 @@ Também irei disponibilizar sites para certificações gratuitas 📝
 
 ---------------------------------------------
 
-> `Plus` 
+🎁> `Plus`  
 Como falou o Et Bilu: **busquem conhecimento** 
